@@ -1,0 +1,22 @@
+body{
+  background-color: whitesmoke;
+}
+.container{
+    max-width:15rem;
+    box-shadow: 3px 3px 10px 10px    rgba(50,50,50,0.1);
+    border-radius:0.5rem;
+    overflow:hidden;  
+    margin: 30px;
+    display: inline-flex;
+    flex-direction: column;
+  }
+  .subheading{
+    font-weight:bold;
+  }
+  .flag{
+    max-width:100%;
+    max-height:15rem;
+  }
+  .info{
+    padding:10px;
+  }
